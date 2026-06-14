@@ -1,2 +1,1 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FalcnHub/FalconDev/refs/heads/main/Falcon.lua.e"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/tsb63vQ62a/0"))()
